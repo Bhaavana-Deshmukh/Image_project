@@ -1,0 +1,14 @@
+cellpose
+opencv-python
+imageio
+pandas
+scikit-learn
+scikit-image
+matplotlib
+jupyter
+numpy
+seaborn
+
+
+
+-e .
